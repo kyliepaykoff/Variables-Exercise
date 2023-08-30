@@ -24,6 +24,5 @@
             Console.WriteLine($"When she was born she was {daughterWeight} pounds and {daughterLength} inches long.");
 
         }
-
     }
 }
